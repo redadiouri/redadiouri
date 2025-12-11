@@ -54,7 +54,7 @@
 - 🛠️ Projets récents :
   - 🧪 **MyLaboAccess** — plateforme de gestion
   - 🍽️ **Maison Pardailhé** — système de commande + automatisations
-  - ✈️ **Bacalao Porto Blog** — site responsive de voyage
+  - ✈️ **Bacalao Porto Blog** — site responsive de resume voyage
 - 🎯 Objectif : devenir full-stack developer + lancer mes propres solutions SaaS
 
 ###
