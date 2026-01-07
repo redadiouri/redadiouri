@@ -6,6 +6,12 @@
   <br>📍 Toulouse, France 🇫🇷 | Morocco 🇲🇦
 </p>
 
+<p align="center">
+  💻 Développeur Full-Stack & Étudiant en Ingénierie Logicielle  
+  <br>🚀 Esprit entrepreneurial • Passionné par l’automatisation • Créateur de projets concrets  
+  <br>📍 Toulouse, France 🇫🇷 | Maroc 🇲🇦
+</p>
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js" height="55" />
   <img width="10" />
@@ -20,32 +26,37 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me | À propos de moi
 
-- 🎓 B2 Student in **Web & Software Development** (IPI Toulouse – Groupe IGENSIA)
-- 💼 **Micro-entrepreneur** – Web development, automation & digital solutions
+### 🇬🇧 English
+- 🎓 B2 student in **Web & Software Development** (IPI Toulouse – Groupe IGENSIA)
+- 💼 **Micro-entrepreneur** – web development, automation & digital solutions
 - 🧠 Strong interest in **DevOps culture, clean architecture & scalable systems**
-- 🛠️ I build **real projects for real needs** (not just school stuff)
-- 🚀 Goal: **Full-Stack Engineer + Founder of my own SaaS products**
+- 🛠️ I build **real projects for real needs** (not just school exercises)
+- 🚀 Goal: **Full-Stack Engineer + Founder of my own SaaS solutions**
+
+### 🇫🇷 Français
+- 🎓 Étudiant en B2 **Développement Web & Logiciel** (IPI Toulouse – Groupe IGENSIA)
+- 💼 **Micro-entrepreneur** – création de sites, automatisations, solutions digitales
+- 🧠 Intéressé par la **culture DevOps, l’architecture propre et les systèmes scalables**
+- 🛠️ Je développe des **projets concrets pour des besoins réels**
+- 🎯 Objectif : **Développeur Full-Stack + créateur de mes propres solutions SaaS**
 
 ---
 
-## 🚀 Current & Recent Projects
+## 🚀 Current & Recent Projects | Projets en cours & récents
 
 - 🧪 **MyLaboAccess**  
-  Equipment & lab management platform (Flutter + PHP API + DB)
+  Equipment & lab management platform (Flutter + PHP API + Database)
 
 - 🍽️ **Maison Pardailhé**  
-  E-commerce + Click & Collect + Admin panel + Automations (real client)
+  E-commerce website, Click & Collect system, Admin panel & automations (real client project)
 
 - 🏢 **59 Web Studio**  
-  Personal freelance brand – websites, tools, digital solutions
-
-- 🛍️ **JR.Shop**  
-  E-commerce / dropshipping experiments
+  Personal freelance brand – websites, tools & digital solutions
 
 - 🌍 **Social & Educational Projects**  
-  (E2C, SAVS, ARIÉDA, interculturality, social inclusion)
+  E2C, SAVS, ARIÉDA, interculturality, social inclusion & educational support
 
 ---
 
@@ -69,6 +80,7 @@
 
 ---
 
-## 💬 Quote
+## 💬 Quote | Citation
 
-> **“I don't just learn code. I build systems, solve problems and create value.”**
+> **“I don't just learn code. I build systems, solve problems and create value.”**  
+> **« Je ne me contente pas d’apprendre le code. Je construis des systèmes, je résous des problèmes et je crée de la valeur. »**
