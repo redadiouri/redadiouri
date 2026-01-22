@@ -55,9 +55,6 @@
 - 🏢 **59 Web Studio**  
   Personal freelance brand – websites, tools & digital solutions
 
-- 🌍 **Social & Educational Projects**  
-  E2C, SAVS, ARIÉDA, interculturality, social inclusion & educational support
-
 ---
 
 ## 🧠 Tech Stack
