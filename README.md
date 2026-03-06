@@ -1,83 +1,92 @@
 <h1 align="center">Hey 👋 I'm Reda Diouri</h1>
 
 <p align="center">
-  💻 Full-Stack Developer & Software Engineering Student  
-  <br>🚀 Entrepreneur-minded • Automation lover • Project builder  
-  <br>📍 Toulouse, France 🇫🇷 | Morocco 🇲🇦
-</p>
-
-<p align="center">
-  💻 Développeur Full-Stack & Étudiant en Ingénierie Logicielle  
-  <br>🚀 Esprit entrepreneurial • Passionné par l’automatisation • Créateur de projets concrets  
-  <br>📍 Toulouse, France 🇫🇷 | Maroc 🇲🇦
+💻 Développeur Web & Étudiant en Informatique  
+<br>🚀 Passionné par le développement, les projets concrets et les solutions digitales  
+<br>📍 Toulouse, France 🇫🇷 | Maroc 🇲🇦
 </p>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=php,mysql" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=tailwind,nodejs,py" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=git,github" height="55" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,mysql,postgres,sqlite,git,github,gitlab,vscode,linux" height="55" />
 </div>
 
 ---
 
-## 👨‍💻 About Me | À propos de moi
+# 👨‍💻 À propos de moi
 
-### 🇬🇧 English
-- 🎓 B2 student in **Web & Software Development** (IPI Toulouse – Groupe IGENSIA)
-- 💼 **Micro-entrepreneur** – web development, automation & digital solutions
-- 🧠 Strong interest in **DevOps culture, clean architecture & scalable systems**
-- 🛠️ I build **real projects for real needs** (not just school exercises)
-- 🚀 Goal: **Full-Stack Engineer + Founder of my own SaaS solutions**
-
-### 🇫🇷 Français
-- 🎓 Étudiant en B2 **Développement Web & Logiciel** (IPI Toulouse – Groupe IGENSIA)
-- 💼 **Micro-entrepreneur** – création de sites, automatisations, solutions digitales
-- 🧠 Intéressé par la **culture DevOps, l’architecture propre et les systèmes scalables**
-- 🛠️ Je développe des **projets concrets pour des besoins réels**
-- 🎯 Objectif : **Développeur Full-Stack + créateur de mes propres solutions SaaS**
+- 🎓 Étudiant en **Développement Web & Logiciel** à **IPI Toulouse**
+- 💼 Expérience en **développement web et support informatique**
+- 🛠️ Création de **sites web, interfaces et applications**
+- 🚀 Objectif : devenir **développeur full-stack et participer à des projets concrets**
 
 ---
 
-## 🚀 Current & Recent Projects | Projets en cours & récents
+# 🚀 Projets
 
-- 🧪 **MyLaboAccess**  
-  Equipment & lab management platform (Flutter + PHP API + Database)
+### 🍽️ Maison Pardailhé
+Développement d’un site web pour un **restaurant traiteur à Toulouse**.  
+Présentation des produits, des services et amélioration de la visibilité en ligne.
 
-- 🍽️ **Maison Pardailhé**  
-  E-commerce website, Click & Collect system, Admin panel & automations (real client project)
-
-- 🏢 **59 Web Studio**  
-  Personal freelance brand – websites, tools & digital solutions
+**Technologies :** HTML, CSS, JavaScript
 
 ---
 
-## 🧠 Tech Stack
+### ⚽ Educafoot
+Interface de gestion créée pour un **club sportif**, permettant la gestion des membres et des informations via **formulaires et base de données**.
 
-- **Frontend**: HTML, CSS, JavaScript, React, Next.js, Tailwind  
-- **Backend**: PHP, Node.js, Python  
-- **Database**: MySQL  
-- **Tools**: Git, GitHub, VS Code, phpMyAdmin, Postman  
-- **DevOps / Culture**: CI/CD basics, automation mindset, clean workflows
+**Technologies :** HTML, CSS, JavaScript, SQL
 
 ---
 
-## 🌍 Connect with Me
+### 🌐 Portfolio
+Création de mon **portfolio personnel** pour présenter mes projets et compétences.
+
+Développé avec **HTML, CSS et JavaScript** sur **Visual Studio Code** et hébergé via **GitHub Pages**.
+
+---
+
+# 🧠 Compétences techniques
+
+### 💻 Bases en
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- PHP
+- SQL
+- Python
+
+### 🖥️ Environnements
+- Windows
+- Linux (bases)
+
+### 🗄️ Bases de données
+- MySQL
+- PostgreSQL
+- SQLite
+
+### 🛠️ Outils
+- Git
+- GitHub
+- GitLab
+- VS Code
+- phpMyAdmin
+- Laragon
+- MySQL Workbench
+- VMware
+
+---
+
+# 🌍 Me contacter
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/reda-diouri" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25"/>
-  </a>
+<a href="https://www.linkedin.com/in/reda-diouri" target="_blank">
+<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25"/>
+</a>
 </div>
 
 ---
 
-## 💬 Quote | Citation
+# 💬 Citation
 
-> **“I don't just learn code. I build systems, solve problems and create value.”**  
-> **« Je ne me contente pas d’apprendre le code. Je construis des systèmes, je résous des problèmes et je crée de la valeur. »**
+> **« Je développe des projets concrets pour résoudre des problèmes réels. »**
